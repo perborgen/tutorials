@@ -1,2 +1,2 @@
 # tutorials
-A repo for non-tutorials for our website
+A repo for tutorials for our website
